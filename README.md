@@ -1,6 +1,6 @@
-#Audio Analysis Toolkit
+# Audio Analysis Toolkit
 
-##Description
+## Description
 
 This project provides tools for in-depth audio analysis, focusing on two key aspects:
 
@@ -18,7 +18,7 @@ The toolkit is designed to handle various audio file formats and applies signal 
 -Reads audio file metadata to determine the bit depth (e.g., 16-bit, 24-bit).
 -Helps in assessing the resolution and potential dynamic range of the audio.
 
-##Installation
+## Installation
 
 This project requires Python 3.x and several dependencies, including numpy, matplotlib, and librosa. To set up the project:
 
